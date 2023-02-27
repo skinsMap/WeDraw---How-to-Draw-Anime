@@ -1,117 +1,204 @@
 {
   "AdsController": {
       
-    "AdNetwork"              : "admob",
+    "AdNetwork"              : "facebook",
     "IntervalClick"          : 1,
 
-    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAd"         : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_OpenAd"           : "ca-app-pub-3940256099942544/3419835294",
+    "AdMob_Banner"           : "ca-app-pub-3071522790697118/5580442192",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3071522790697118/2978878327",
+    "AdMob_RewardAd"         : "ca-app-pub-3071522790697118/5413469971",
+    "AdMob_OpenAd"           : "ca-app-pub-3071522790697118/3170450017",
     "OpenAd_status"          : true ,
 
-    "Facebook_Banner"        : "871738060667001_871738510666956",
-    "Facebook_InterstitialAd": "871738060667001_871738604000280",
-    "Facebook_RewardAd"      : "ca-app-pub-3940256099942544/1033173712",
+    "Facebook_Banner"        : "577599874291208_577600164291179",
+    "Facebook_InterstitialAd": "577599874291208_577600260957836",
+    "Facebook_RewardAd"      : "577599874291208_577600337624495",
 
-    "Applovin_Banner"        : "4f657f6640db2eeb",
-    "Applovin_InterstitialAd": "362e843f5198f772",
-    "Applovin_RewardAd"      : "362e843f5198f772",
+    "Applovin_Banner"        : "",
+    "Applovin_InterstitialAd": "",
+    "Applovin_RewardAd"      : "",
 
-    "Unity_GameID"           : "5037733",
-    "Unity_Banner"           : "Banner_Android",
-    "Unity_InterstitialAd"   : "Interstitial_Android",
-    "Unity_RewardAd"         : "video",
+    "Unity_GameID"           : "",
+    "Unity_Banner"           : "",
+    "Unity_InterstitialAd"   : "",
+    "Unity_RewardAd"         : "",
 
-    "IronSourceKey"          : "178437e45"
+    "IronSourceKey"          : ""
   },
   
   "Category": [
     {
       "category_title": "Anime",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/anime.png",
+      "category_preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Untitled-2.png",
       "category_list": [
         {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
-        },
-        {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
-        }
-      ]
-    },
-    {
-      "category_title": "Poses",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/poses.png",
-      "category_list": [
-        {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
-        },
-        {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
+          "name": "Anime",
+          "cover": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Untitled-3.png"
         }
       ]
     }
   ],
-  "One Piece": [
+  "Anime": [
     {
-      "title": "San Jy",
-      "preview": "https://e7.pngegg.com/pngimages/997/382/png-clipart-vinsmoke-sanji-monkey-d-luffy-roronoa-zoro-one-piece-pirate-warriors-nami-one-piece-manga-fictional-character.png",
+      "title": "Todoroki",
+      "preview": "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_icon.png",
       "locked": false,
       "steps": [
-        "luffy_1",
-        "luffy_2"
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_1.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_2.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_3.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_4.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_5.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_6.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_7.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_8.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_9.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_10.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_11.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_12.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_13.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_14.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_15.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_16.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_17.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_18.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/todoroki/todoroki_19.png" 
       ]
     },
     {
-      "title": "Monkey D.Luffy",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/luffy.png",
-      "locked": true,
-      "steps": [
-        "luffy_1",
-        "luffy_2"
-      ]
-    },
-    {
-      "title": "Nami",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/nami.png",
+      "title": "Tanjiro Demon Slayer",
+      "preview": "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_icon.png",
       "locked": false,
       "steps": [
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/1.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/2.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/3.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/4.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/5.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/6.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/7.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/8.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/9.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/11.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/12.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/13.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/14.png"
-      ]
-    }
-  ],
-  "Naruto": [
-    {
-      "title": "Naruto",
-      "preview": "",
-      "steps": [
-        "nar_1",
-        "nar_2"
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_1.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_2.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_3.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_4.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_5.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_6.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_7.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_8.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_9.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_10.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_11.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_12.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_13.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_14.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_15.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_16.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_17.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_18.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_19.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_20.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_21.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_22.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_23.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_24.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_25.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_26.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_27.png"
       ]
     },
     {
-      "title": "Kakashi Hatake",
-      "preview": "",
+      "title": "Shizuka",
+      "preview": "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_icon.png",
+      "locked": false,
       "steps": [
-        "kak_1",
-        "kak_2"
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_1.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_2.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_3.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_4.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_5.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_6.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_7.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_8.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_9.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_10.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_11.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_12.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_13.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_14.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_15.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_16.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_17.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/shizuka/shizuka_easy_18.png"
       ]
-    }
+    },
+    {
+      "title": "Pikachu",
+      "preview": "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_icon.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_1.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_2.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_3.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_4.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_5.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_6.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_7.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_8.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_9.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_10.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_11.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_12.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_13.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_14.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_15.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_16.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_17.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_18.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_19.png"
+      ]
+    },
+    {
+      "title": "Nezuko Kamado",
+      "preview": "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_icon.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_1.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_2.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_3.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_4.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_5.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_6.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_7.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_8.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_9.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_10.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_11.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_12.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_13.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_14.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_15.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_16.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_17.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_18.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_19.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_20.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_21.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_22.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_23.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_24.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_25.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_26.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_27.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_28.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_29.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_30.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_31.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_32.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_33.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_31.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_32.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_33.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_34.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_35.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_36.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_37.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_38.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_39.png",
+        "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_40.png"
+      ]
+    }   
   ]
 }
