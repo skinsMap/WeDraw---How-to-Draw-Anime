@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "AdNetwork"              : "facebook",
+    "AdNetwork"              : "admob",
     "IntervalClick"          : 1,
 
     "AdMob_Banner"           : "ca-app-pub-3071522790697118/5580442192",
@@ -29,11 +29,11 @@
   "Category": [
     {
       "category_title": "Anime",
-      "category_preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Untitled-2.png",
+      "category_preview": "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/Untitled-2.png",
       "category_list": [
         {
           "name": "Anime",
-          "cover": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Untitled-3.png"
+          "cover": "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/Untitled-3.png"
         }
       ]
     }
