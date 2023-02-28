@@ -68,7 +68,7 @@
     {
       "title": "Tanjiro Demon Slayer",
       "preview": "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_1.png",
         "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/tanjiro%20demon%20slayer/tanjiro_demon_slayer_2.png",
@@ -127,7 +127,7 @@
     {
       "title": "Pikachu",
       "preview": "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_1.png",
         "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/pikachu/pikachu_2.png",
@@ -153,7 +153,7 @@
     {
       "title": "Nezuko Kamado",
       "preview": "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_1.png",
         "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/nezuko%20kamado/nezuko_kamado_2.png",
