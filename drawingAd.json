@@ -203,7 +203,7 @@
     {
       "title": "Wednesday Cool",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_1.png",
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Wednesday%20Cool/wednesday_cool_drawing_2.png",
@@ -269,7 +269,7 @@
     {
       "title": "Thing Netflix Wednesday",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_1.png",
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_2.png",
@@ -336,7 +336,7 @@
     {
       "title": "Thing Netflix Wednesday",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_1.png",
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Thing%20Netflix%20Wednesday/thing_netflix_wednesday_2.png",
@@ -367,7 +367,7 @@
     {
       "title": "Pogsley Netflix",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_1.png",
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Pogsley%20Netflix/pogsley_netflex_2.png",
@@ -406,7 +406,7 @@
     {
       "title": "Gomez Addams",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_1.png",
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Gomez%20Addams/gomez_addams_2.png",
@@ -437,7 +437,7 @@
     {
       "title": "Enid Sinclair",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_1.png",
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Enid%20Sinclair/enid_sinclair_2.png",
@@ -489,7 +489,7 @@
     {
       "title": "Adams Family",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_icon.png",
-      "locked": false,
+      "locked": true,
       "steps": [
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_1.png",
         "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Adams%20Family/adams_family_2.png",
