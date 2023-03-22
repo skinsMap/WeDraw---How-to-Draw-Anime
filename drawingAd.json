@@ -56,6 +56,18 @@
           "cover": "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/Untitled-3.png"
         }
       ]
+      },
+    {
+  "Category": [
+    {
+      "category_title": "Ultra Instinct",
+      "category_preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/Untitled-2.png",
+      "category_list": [
+        {
+          "name": "Ultra Instinct",
+          "cover": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/Untitled-3.png"
+        }
+      ]
     }
   ],
 
@@ -1452,6 +1464,164 @@
         "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/New%20Folder%20With%20Items%2014/b9_41.png",
         "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/New%20Folder%20With%20Items%2014/b9_42.png",
         "https://raw.githubusercontent.com/skinsMap/Demon-Slayer/main/New%20Folder%20With%20Items%2014/b9_43.png"
+      ]
+    }   
+ ],
+  "Ultra Instinct": [
+    {
+      "title": "Ultra Instinct 1",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items/00d_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items/00d_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items/00d_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items/00d_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items/00d_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items/00d_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items/00d_06.png"
+      ]
+    },
+    {
+      "title": "Ultra Instinct 2",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/ef_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/ef_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/ef_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/ef_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/ef_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/ef_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/ef_06.png"
+      ]
+    },
+    {
+      "title": "Ultra Instinct 3",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/f0_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/f0_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/f0_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/f0_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/f0_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/f0_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%202/f0_06.png"
+      ]
+    },
+    {
+      "title": "Ultra Instinct 4",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/e092_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/e092_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/e092_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/e092_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/e092_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/e092_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/e092_06.png"
+      ]
+    },
+    {
+      "title": "Ultra Instinct 5",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/ea2a9_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/ea2a9_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/ea2a9_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/ea2a9_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/ea2a9_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/ea2a9_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%203/ea2a9_06.png"
+      ]
+    },
+    {
+      "title": "Ultra Instinct 6",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%204/e6_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%204/e6_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%204/e6_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%204/e6_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%204/e6_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%204/e6_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%204/e6_06.png"
+      ]
+    },
+    {
+      "title": "Ultra Instinct 7",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%205/dbc655_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%205/dbc655_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%205/dbc655_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%205/dbc655_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%205/dbc655_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%205/dbc655_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%205/dbc655_06.png"
+      ]
+    },
+    {
+      "title": "Ultra Instinct 8",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/c37_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/c37_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/c37_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/c37_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/c37_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/c37_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/c37_06.png"
+      ]
+    },
+    {
+      "title": "Ultra Instinct 9",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/d8_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/d8_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/d8_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/d8_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/d8_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/d8_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%206/d8_06.png"
+      ]
+    },
+    {
+      "title": "Ultra Instinct 10",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c1ac_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c1ac_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c1ac_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c1ac_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c1ac_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c1ac_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c1ac_06.png"
+      ]
+    },
+    {
+      "title": "Ultra Instinct 11",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c8bd_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c8bd_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c8bd_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c8bd_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c8bd_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c8bd_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%207/c8bd_06.png"
+      ]
+    },
+    {
+      "title": "Ultra Instinct 12",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%208/a756d_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%208/a756d_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%208/a756d_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%208/a756d_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%208/a756d_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%208/a756d_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Ultra-Instinct/main/New%20Folder%20With%20Items%208/a756d_06.png"
       ]
     }   
   ]
