@@ -34,10 +34,19 @@
         {
           "name": "Anime",
           "cover": "https://raw.githubusercontent.com/skinsMap/WeDraw---How-to-Draw-Anime/main/Untitled-3.png"
+  },
+    {
+      "category_title": "Wednesday",
+      "category_preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Untitled-2.png",
+      "category_list": [
+        {
+          "name": "Wednesday",
+          "cover": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Wednesday-Addams/main/Untitled-3.png"
         }
       ]
     }
   ],
+
   "Anime": [
     {
       "title": "Todoroki",
